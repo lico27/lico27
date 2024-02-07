@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liam
 - 👀 I’m interested in making stuff, innovating, continually learning and creating
-- 🌱 I’m currently learning JavaScript and Swift, plus web development as part of edX Front-end Bootcamp
+- 🌱 I’m currently learning web development as part of edX Front-end Bootcamp
 - 💞️ I’m looking to collaborate on anything that helps me learn
 - 📫 How to reach me: @liamco27 on Twitter
 

@@ -1,7 +1,7 @@
 Hi 👋 My name is Liam
 =====================
 
-I started casually building websites when I was a teenager, but in the last year I've started taking my career change into tech more seriously. I'm a graduate of edX's Front-End Web Development bootcamp and am working on maximising the skills I've already learnt, as well as constantly learning new things. 
+I'm a graduate of edX's Front-End Web Development bootcamp and am working on maximising the skills I've already learnt, as well as constantly learning new things. 
 
 I'm currently undertaking a 12-week internship at <a href="https://socialwebstrategy.com/">Social Web Strategy</a> - learning WordPress and Elementor.
 

@@ -9,7 +9,7 @@ I'm currently undertaking a 12-week internship at <a href="https://socialwebstra
 🖥️  See my portfolio at [liamco.io](http://liamco.io)</br>
 ✉️  You can contact me at [lemcottrell@gmail.com](mailto:lemcottrell@gmail.com)</br>
 🚀  I'm currently working on [Powerlifting Pal](http://lico27.github.io/pl.pal/)</br>
-🧠  I'm learning Python and Data Science</br>
+🧠  I'm learning Python, SQL and Data Science</br>
 🤝  I'm open to collaborating on anything that helps me learn
 
 ### Skills 

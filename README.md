@@ -7,7 +7,7 @@ I'm currently undertaking a 12-week internship at <a href="https://socialwebstra
 
 🌍  Based in South West England</br>
 🖥️  See my portfolio at [liamco.io](http://liamco.io)</br>
-📧  Contact me at [lemcottrell@gmail.com](mailto:lemcottrell@gmail.com)</br>
+📧  Contact me at [liam@liamco.io](mailto:liam@liamco.io)</br>
 🧠  Learning Python, SQL and Data Science</br>
 🎓  Working through courses on Codecademy and Udemy</br>
 💯  Aiming for a 100-day GitHub streak</br>

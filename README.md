@@ -5,12 +5,12 @@ I'm a graduate of edX's Front-End Web Development bootcamp and am working on max
 
 I'm currently undertaking a 12-week internship at <a href="https://socialwebstrategy.com/">Social Web Strategy</a> - learning WordPress and Elementor.
 
-🌍  I'm based in South West England</br>
+🌍  Based in South West England</br>
 🖥️  See my portfolio at [liamco.io](http://liamco.io)</br>
-✉️  You can contact me at [lemcottrell@gmail.com](mailto:lemcottrell@gmail.com)</br>
-🚀  I'm currently working on [Powerlifting Pal](http://lico27.github.io/pl.pal/)</br>
-🧠  I'm learning Python, SQL and Data Science</br>
-🤝  I'm open to collaborating on anything that helps me learn
+📧  Contact me at [lemcottrell@gmail.com](mailto:lemcottrell@gmail.com)</br>
+🧠  Learning Python, SQL and Data Science</br>
+🎓  Working through courses on Codecademy and Udemy</br>
+💯  Aiming for a 100-day GitHub streak</br>
 
 ### Skills 
 <p align="left">

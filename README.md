@@ -1,7 +1,7 @@
 Hi 👋 My name is Liam
 =====================
 
-I'm a graduate of edX's Front-End Web Development bootcamp and am working on maximising the skills I've already learnt, as well as constantly learning new things. 
+I'm a graduate of edX's Front-End Web Development bootcamp and an aspiring Data Scientist. 
 
 I'm currently undertaking a 12-week internship at <a href="https://socialwebstrategy.com/">Social Web Strategy</a> - learning WordPress and Elementor.
 
@@ -11,6 +11,7 @@ I'm currently undertaking a 12-week internship at <a href="https://socialwebstra
 🧠  Learning Python, SQL and Data Science</br>
 🎓  Working through courses on Codecademy and Udemy</br>
 💯  Aiming for a 100-day GitHub streak</br>
+
 
 ### Skills 
 <p align="left">
@@ -43,12 +44,13 @@ I'm currently undertaking a 12-week internship at <a href="https://socialwebstra
                     
 ### My GitHub Stats
 
-<a href="http://www.github.com/lico27"><img src="https://github-readme-stats.vercel.app/api?username=lico27&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="lico27's GitHub stats" /></a>
+<a href="http://www.github.com/lico27"><img src="https://github-readme-stats.vercel.app/api?username=lico27&show_icons=true&hide=&count_private=true&title_color=5AD767&border_color=5AD767&bg_color=45,0d1117,121E1C&border_radius=20&text_color=64748b&icon_color=5AD767&hide_border=false&show_icons=true" alt="lico27's GitHub stats" /></a>
 
-<a href="http://www.github.com/lico27"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=lico27&stroke=64748b&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>  
+  <a href="https://github.com/lico27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lico27&langs_count=10&title_color=5AD767&border_color=5AD767&bg_color=45,0d1117,121E1C&border_radius=20&text_color=64748b&icon_color=22c55e&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lico27&theme=whatsapp-dark&border_radius=20&background=45%2C0D1117%2C121E1C&border=5AD767&ring=5AD767&fire=5AD767&currStreakNum=5AD767&sideNums=5AD767" alt="GitHub Streak" /></a>
                   
-<a href="https://github.com/lico27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lico27&langs_count=10&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <!---
 lico27/lico27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

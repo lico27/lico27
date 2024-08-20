@@ -3,7 +3,7 @@
 <p align="center">
 I'm a graduate of edX's Front-End Web Development bootcamp and an aspiring Data Scientist. 
 <p align="center">
-I'm currently undertaking a 12-week internship at <a href="https://socialwebstrategy.com/">Social Web Strategy</a> - learning WordPress and Elementor.
+I've just finished a 12-week internship in Frontend Development at <a href="https://socialwebstrategy.com/">Social Web Strategy</a>.
 
 <h2 align="center">Snapshot</h2>
 <p align="center">

@@ -12,7 +12,6 @@ I've just finished a 12-week internship in Frontend Development at <a href="http
 📧  Contact me at liam [at] liamco.io</br>
 🧠  Learning Python, SQL and Data Science</br>
 🎓  Working through courses on Codecademy and Udemy</br>
-💯  Aiming for a 100-day GitHub streak</br>
 
 <h2 align="center">Skills </h2>
 <p align="center">

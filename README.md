@@ -11,7 +11,8 @@ I've just finished a 12-week internship in Frontend Development at <a href="http
 🖥️  See my portfolio at <a href="https://liamco.io" target="_blank">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io</br>
 🧠  Learning Python, SQL and Data Science</br>
-🎓  Working through courses on Codecademy and Udemy</br>
+📚  Working through courses on Codecademy and Udemy</br>
+🎓  MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE</a> from January 2025
 
 <h2 align="center">Skills </h2>
 <p align="center">

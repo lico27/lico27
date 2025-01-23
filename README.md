@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋 My name is Liam</h1>
 
 <p align="center">
-I'm a graduate of edX's Front-End Web Development bootcamp and an aspiring Data Scientist. 
-<p align="center">
-I've just finished a 12-week internship in Frontend Development at <a href="https://socialwebstrategy.com/">Social Web Strategy</a>.
-
-<h2 align="center">Snapshot</h2>
-<p align="center">
+🎓 I'm a MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE</a>!</br>
+🧠 Studying modules in Statistical Inference, Data Management Fundamentals and Programming.</br>
 🌍  Based in South West England</br>
 🖥️  See my portfolio at <a href="https://liamco.io" target="_blank">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io</br>
-🧠  Learning Python, SQL and Data Science</br>
-📚  Working through courses on Codecademy and Udemy</br>
-🎓  MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE</a> from January 2025
+<p align="center">
+I'm also a graduate of edX's Front-End Web Development bootcamp, and in Summer 2024 I undertook a 12-week internship in Frontend Development at <a href="https://socialwebstrategy.com/">Social Web Strategy</a>. 
+
+<h2 align="center">Snapshot</h2>
+<p align="center">
+
 
 <h2 align="center">Skills </h2>
 <p align="center">

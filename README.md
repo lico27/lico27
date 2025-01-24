@@ -2,7 +2,7 @@
 
 
 🎓 I'm a MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE</a>!</br>
-🧠 Studying modules in Statistical Inference, Data Management Fundamentals and Programming.</br>
+🧠 Studying modules in Statistical Inference (R), Data Management Fundamentals and Programming (Python)</br>
 🌍  Based in South West England</br>
 🖥️  See my portfolio at <a href="https://liamco.io" target="_blank">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io</br>

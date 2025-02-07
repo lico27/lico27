@@ -1,7 +1,7 @@
 <h1>Hi 👋 My name is Liam</h1>
 
 
-🎓 I'm a MSc Data Science student at <a href="https://uwe.ac.uk">UWE</a>!</br>
+🎓 I'm an MSc Data Science student at <a href="https://uwe.ac.uk">UWE</a>!</br>
 🧠 Studying modules in Statistical Inference (R), Data Management Fundamentals and Programming (Python)</br>
 🌍  Based in South West England</br>
 🖥️  See my portfolio at <a href="https://liamco.io">liamco.io</a></br>

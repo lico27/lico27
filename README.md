@@ -14,11 +14,9 @@ I'm also a graduate of edX's Front-End Web Development bootcamp, and in Summer 2
 </p>
                     
 <h2>My GitHub Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lico27&theme=whatsapp-dark&border_radius=20&background=45%2C0D1117%2C121E1C&border=5AD767&ring=5AD767&fire=5AD767&currStreakNum=5AD767&sideNums=5AD767" alt="GitHub Streak" /></a></br>
-<a href="http://www.github.com/lico27"><img src="https://github-readme-stats.vercel.app/api?username=lico27&show_icons=true&hide=&count_private=true&title_color=5AD767&border_color=5AD767&bg_color=45,0d1117,121E1C&border_radius=20&text_color=64748b&icon_color=5AD767&hide_border=false&show_icons=true" alt="lico27's GitHub stats" /></a></br>
-<a href="https://github.com/lico27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lico27&langs_count=10&title_color=5AD767&border_color=5AD767&bg_color=45,0d1117,121E1C&border_radius=20&text_color=64748b&icon_color=22c55e&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-                  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lico27&show_icons=true&theme=transparent)](https://github.com/lico27/github-readme-stats)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lico27&layout=compact&show_icons=true&theme=transparent)
 
 <!---
 lico27/lico27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

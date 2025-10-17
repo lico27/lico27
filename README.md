@@ -3,13 +3,6 @@
 
 🎓 I'm an MSc Data Science student at <a href="https://uwe.ac.uk">UWE</a>!</br>
 🔎 Working on my final project - an AI tool to help charities find grants faster </br>
-💯 My modules and grades:  
-    &nbsp;&nbsp;&nbsp; 📊 Statistical Inference (R) - 90  
-    &nbsp;&nbsp;&nbsp; 💿 Data Management Fundamentals (SQL) - 86  
-    &nbsp;&nbsp;&nbsp; 🐍 Programming for Data Science (Python) - 74  
-    &nbsp;&nbsp;&nbsp; 🧠 Machine Learning & Predictive Analytics - 70  
-    &nbsp;&nbsp;&nbsp; 📈 Business Intelligence & Data Visualisation - 65  
-    &nbsp;&nbsp;&nbsp; 🧑‍💻 Group Project - 69</br>
 🌍  Based in South West England</br>
 🖥️  See my portfolio at <a href="https://liamco.io">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io or on <a href="https://www.linkedin.com/in/liam-cottrell/">LinkedIn</a></br>

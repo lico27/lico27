@@ -5,7 +5,7 @@
 🎓  I have an MSc in Data Science (with Distinction) from <a href="https://uwe.ac.uk">UWE</a></br>
 🔎  My final MSc project was <a href="https://prospie.app/">prospie</a> - an AI tool to help charities find grants faster (which I will update soon!) </br>
 🌍  Based in South West England</br>
-🧠  Studying for the MongoDB Associate Python Developer and Microsoft PL-300 Data Analyst certifications
+🧠  Studying for the MongoDB Associate Python Developer and Microsoft PL-300 Data Analyst certifications</br>
 🖥️  See my portfolio at <a href="https://liamco.io">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io or on <a href="https://www.linkedin.com/in/liam-cottrell/">LinkedIn</a></br>
 </br>

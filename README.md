@@ -1,9 +1,11 @@
 <h1>Hi 👋 My name is Liam</h1>
 
 
-🎓  I've just finished my MSc Data Science from <a href="https://uwe.ac.uk">UWE</a>, for which I earned a Distinction</br>
-🔎  My final project is <a href="https://prospie.app/">prospie</a> - an AI tool to help charities find grants faster </br>
+👨🏻‍💻  I am Data Systems Coordinator at <a href="https://youngdevon.org">Young Devon</a></br>
+🎓  I have an MSc in Data Science (with Distinction) from <a href="https://uwe.ac.uk">UWE</a></br>
+🔎  My final MSc project was <a href="https://prospie.app/">prospie</a> - an AI tool to help charities find grants faster (which I will update soon!) </br>
 🌍  Based in South West England</br>
+🧠  Studying for the MongoDB Associate Python Developer and Microsoft PL-300 Data Analyst certifications
 🖥️  See my portfolio at <a href="https://liamco.io">liamco.io</a></br>
 📧  Contact me at liam [at] liamco.io or on <a href="https://www.linkedin.com/in/liam-cottrell/">LinkedIn</a></br>
 </br>
